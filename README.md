@@ -10,9 +10,9 @@
 
 **Status Update on 11/2/2023**
 
--  Introduced a <header> element and adjusted the margin to accommodate mobile device dimensions, enhancing both aesthetics and functionality. Used a <header> instead of non-semantic <div> in table.vue to add semantic meaning to the navigation bar.
+-  Introduced a `<header>` element and adjusted the margin to accommodate mobile device dimensions, enhancing both aesthetics and functionality. Used a `<header>` instead of non-semantic `<div>` in table.vue to add semantic meaning to the navigation bar.
 
-- Added a <div> element as a container for the main table design to adhere to proper HTML structure within Vue components. This maintains the intended styles and overflow behavior and is configured to support the pagination design.
+- Added a `<div>` element as a container for the main table design to adhere to proper HTML structure within Vue components. This maintains the intended styles and overflow behavior and is configured to support the pagination design.
 
 **Status Update on 11/3/2023**
 
